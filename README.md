@@ -1,4 +1,4 @@
-- 👋 Hello
+👋 Hello
   
 -------I’m currently learning-------
 - **Rust** (Bare metal/Driver development + How malware works and how to prevent)
