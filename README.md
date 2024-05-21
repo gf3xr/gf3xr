@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Shellcode Injection<br><br>🧠 I mainly use Rust, C# (Inc Framework & Core)<br><br>🌱 I’m currently learning GUI creation<br><br>💬 Ask me about Malware analysis/Reverse engineering or anything cyber security related
+🔭 I’m currently working on Shellcode Injection<br><br>🧠 I mainly use Rust, C# (Inc. Framework & Core)<br><br>🌱 I’m currently learning GUI creation<br><br>💬 Ask me about Malware analysis/Reverse engineering or anything cyber security related
 
 
 # 💻 Tech Stack:
